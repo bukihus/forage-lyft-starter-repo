@@ -1,5 +1,5 @@
 from abc import ABC
-
+from batteries.spindler import Spindler
 from car import Car
 
 
