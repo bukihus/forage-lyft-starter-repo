@@ -1,3 +1,5 @@
+from tires.tires import Tires
+
 class Carrigan():
     def __init__(self, tires):
         self.tires = tires

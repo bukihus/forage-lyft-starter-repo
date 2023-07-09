@@ -1,3 +1,5 @@
+from tires.tires import Tires
+
 class Octoprime():
     def __init__(self, tires):
         self.tires = tires
